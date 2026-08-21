@@ -8,9 +8,9 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212709138520;
+global.pairingNumber = 212777532483;
 global.owner = [
-  ['212698498657', '𝗮𝗱𝗮𝗺.___.𝟵𝟴', true],
+  ['212710725533', 'SASUKE TECH', true],
   ['', 'Owner 2', true],
 ];
 
