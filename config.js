@@ -10,7 +10,7 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 212777532483;
 global.owner = [
-  ['212710725533', 'SASUKE TECH', true],
+  ['212777532483', 'Erika', true],
   ['', 'Owner 2', true],
 ];
 
